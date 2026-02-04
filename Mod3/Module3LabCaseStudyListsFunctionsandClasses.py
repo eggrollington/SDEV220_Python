@@ -1,3 +1,6 @@
+# Module3LabCaseStudyListsFunctionsandClasses.py
+# Michael Webb
+# this program defines a Vehicles class and an Automobile subclass. It prompts the user for vehicle details and displays them.
 class Vehicles:
     def __init__(self, vehicle_type):
         self.vehicle_type = vehicle_type
